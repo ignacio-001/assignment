@@ -19,7 +19,7 @@ Run the following commands to set up and start the server:
 git clone https://github.com/ignacio-001/assignment
 cd assignment
 npm install
-node expressCsvGenerator
+npm start
 
 **For Testing**
 npm test
